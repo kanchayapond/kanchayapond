@@ -1,7 +1,7 @@
 ## HELLO, Everyone. 😆
 ### I’m Kanchayapond Saejoong.( Earnn. / @kanchayapond ) 👩🏼‍💻
 
-I'm a student in Bachelor of Science Program in Health Data Science at King Mongkut's University of Technology Thonburi and Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy, expect to graduate in May 2023. I’m interested in Health Data Analysis and innovation about data science, data visualization, and health innovation. I always update new information regularly and learn new things.
+I graduated in Bachelor of Science Program in Health Data Science at King Mongkut's University of Technology Thonburi and Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy, expect to graduate in May 2023. I’m interested in Health Data Analysis and innovation about data science, data visualization, and health innovation. I always update new information regularly and learn new things.
 
 ### Interesting About 🩺
 - Bioinformatics 
